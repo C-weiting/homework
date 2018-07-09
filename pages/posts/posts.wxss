@@ -1,0 +1,8 @@
+/* pages/posts/posts.wxss */
+.swiper {
+  height: 500rpx;
+}
+.swiper image {
+  width: 100%;
+  height: 100%;
+}
